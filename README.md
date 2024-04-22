@@ -1,8 +1,8 @@
-# ds4400-final-project
+# DS4400-Final-Project
 Machine Learning and Data Mining 1 Final Project - Stellar Object Detection
 
 
-based on the following kaggle data sets:
+Based on the following kaggle data sets:
 
 Sloan Digital Sky Survey: https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17
 
